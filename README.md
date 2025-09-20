@@ -28,4 +28,4 @@ GDAL (Geospatial Data Abstraction Library): This is the core dependency for read
 - lodepng (for 16-bit height map generation) https://github.com/lvandeve/lodepng
 - stb_image_write https://github.com/nothings/stb
 - https://science.nasa.gov/resource/apollo-11-landing-site/
-- The processed GeoTIFF was taken from this website https://data.lroc.im-ldi.com/lroc/view_rdr/NAC_DTM_APOLLO11 which may not be available currently 
+- The processed GeoTIFF was taken from this website https://data.lroc.im-ldi.com/lroc/view_rdr/NAC_DTM_APOLLO11
